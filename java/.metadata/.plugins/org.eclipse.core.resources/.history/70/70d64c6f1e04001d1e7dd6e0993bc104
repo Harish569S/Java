@@ -1,0 +1,10 @@
+package com.mindtree.maven.jdbc;
+
+public class MAvenMySqlJdbc {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
